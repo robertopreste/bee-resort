@@ -211,12 +211,12 @@ a:hover { color: #64c29e; text-decoration: none; }
 p { text-align: center; font-size: 14px; color: #848789; font-weight: 300; word-spacing: 2px; line-height: 1.8em; margin-top: 25px; }
 p.text-intro { font-size: 18px; }
 .hero {
-    background: url(../img/img/treetops_studio_white.png) no-repeat top center #f4f5fc;
+    background: url(../img/img/header.jpg) no-repeat top center #f4f5fc;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 685px;
+    height: 485px;
 }
 nav { height: 85px; margin-top: 30px; position: relative; }
 .logo-holder {
