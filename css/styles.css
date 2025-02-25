@@ -241,6 +241,7 @@ header ul li a { display: block; margin: 0 30px; color: #4d4959; }
 .section-text { position: relative; }
 .nopadding { padding: 0 !important; margin: 0 !important; }
 .thin-sep { height: 1px; background-color: #d7d7d7; width: 50px; margin: 5% auto 0 auto; }
+.thin-sep-always { height: 1px; background-color: #d7d7d7; width: 50px; margin: 2% auto 0 auto; }
 .small-featured-img { height: 200px; width: 100%; position: absolute; bottom: 0; }
 .seat-red { background: url(../img/seat-red.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
 .seat-black { background: url(../img/seat-black.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
@@ -298,3 +299,4 @@ footer p { font-size: 13px; margin: 0; }
 .pintrest-icon { background: url(../img/pintrest-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px; }
 .wp1, .wp2, .wp3, .wp4, .wp5, .wp6 { visibility: hidden; }
 .bounceInLeft, .bounceInRight, .fadeInUp { visibility: visible; }
+.padding-30 { padding: 30px; }
